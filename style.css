@@ -76,11 +76,14 @@ h1{
     color: rgb(253, 253, 253);
 }
 .youtube-bro{
-    color: rgb(206, 15, 15);
+    color: rgb(204, 21, 21);
 }
 .insta-bro{
-    background-image: linear-gradient(#F58529,#FEDA77,#DD2A7B,#8134AF,#515BD4);
-    border-radius: 10px;
+    color: rgb(197, 15, 15);
+
+}
+.dri-div{
+    color: rgb(187, 19, 19);
 }
 
 
